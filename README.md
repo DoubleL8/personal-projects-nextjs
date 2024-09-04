@@ -1,1 +1,1 @@
-# personal-projects-nextjs
+# Personal Projects for Nextjs
